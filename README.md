@@ -1,14 +1,14 @@
 # asp-net-core-web-api-example
 This example will help you to create a cross-platform RESTful service using ASP.NET Core Web API with .Net core and C#.
 	
-Example scenario - 
+**Example scenario** - 
 Suppose you want to manage a "to-do" items in your list and you need to develop a Web API to manage them and then test the API.
 
-CRUD Operations in this example - 
+**CRUD Operations performed in this example** - 
 
 ![image](https://user-images.githubusercontent.com/22763130/120967607-51176e80-c785-11eb-84a8-df89f1457f63.png)
 
-Steps to run this example - 
+**Steps to run this example** - 
 
 1. Clone the repository or download the zip folder.
 2. Open the solution in Visual Studio 2019.
